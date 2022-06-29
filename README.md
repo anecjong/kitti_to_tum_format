@@ -2,6 +2,11 @@
   <h1>KITTI to TUM format(pose)</h1>
 </div>
 
+## Depencdency
+python scipy library is used for rotation matrix and quaternion.  
+python glob library is used for making file lists.
+numpy
+
 ## Pose format
 - **KITTI Pose(SE3)**
     
