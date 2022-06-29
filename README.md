@@ -4,7 +4,7 @@
 
 ## Depencdency
 python scipy library is used for rotation matrix and quaternion.  
-python glob library is used for making file lists.
+python glob library is used for making file lists.  
 numpy
 
 ## Pose format
